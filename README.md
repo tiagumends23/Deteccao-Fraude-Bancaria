@@ -1,4 +1,4 @@
-# Detecção de Fraudes em Transações 💳🕵️‍♂️
+# Detecção de Fraudes em Transações Bancárias💳🕵️‍♂️
 
 ## Visão Geral do Projeto
 Este projeto implementa um modelo de Machine Learning para detectar transações fraudulentas utilizando o famoso dataset `creditcard.csv`. O principal desafio resolvido aqui é o **desbalanceamento extremo dos dados**, onde menos de 0,2% das transações são fraudes reais. 
