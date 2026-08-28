@@ -27,6 +27,8 @@ Modelos ingênuos que classificam todas as transações como "normais" podem ati
 
 ## Resultados Obtidos
 Após o treinamento e ajuste do threshold para 0.3, o modelo obteve os seguintes resultados no conjunto de teste:
+<img width="800" height="613" alt="Figure_1" src="https://github.com/user-attachments/assets/9777582f-cf79-45bd-aaae-96e23ac4ba71" />
+
 
 ```text
               precision    recall  f1-score   support
